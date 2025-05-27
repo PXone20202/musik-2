@@ -1,0 +1,13 @@
+basic.forever(function () {
+    basic.setLedColor(0xff0000)
+    basic.setLedColor(0xff8000)
+    basic.setLedColor(0xffff00)
+    basic.setLedColor(0x00ff00)
+    basic.setLedColor(0x00ffff)
+    basic.setLedColor(0x007fff)
+    basic.setLedColor(0x0000ff)
+    basic.setLedColor(0x7f00ff)
+    basic.setLedColor(0xb09eff)
+    basic.setLedColor(0xff00ff)
+    basic.setLedColor(0xff0080)
+})
