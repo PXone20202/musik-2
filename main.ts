@@ -1,3 +1,18 @@
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . . # . .
+    . . . . .
+    . . . . .
+    `)
+basic.pause(100)
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . . . . .
+    . . . . .
+    . . . . .
+    `)
 basic.forever(function () {
     basic.setLedColor(0xff0000)
     basic.pause(100)
